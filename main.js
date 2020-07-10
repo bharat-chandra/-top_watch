@@ -32,3 +32,8 @@ function start(){
         }
     },1000);
 }
+function reload(){
+    sec.innerHTML='00';
+    min.innerHTML='00';
+    hr.innerHTML ='00';
+}
